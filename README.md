@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankpurohit&label=Profile%20views&color=0e75b6&style=flat" alt="shashankpurohit" /> </p>
 
-- 🔭 I’m currently working on **Face Detection**
+- 🔭 I’m currently working on **Artificial Intelligence**
 
 - 🌱 I’m currently learning **TensorFlow**
 
